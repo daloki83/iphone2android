@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=iPhone → Android
+Comment=Fotos und Videos vom iPhone auf PC und Android übertragen
+Exec=python3 "@PFAD@/iphone2android.py"
+Icon=camera-photo
+Terminal=false
+Categories=Utility;Graphics;
